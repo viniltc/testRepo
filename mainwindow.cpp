@@ -7,6 +7,7 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
     //commend
+    //Check again qt creator
 }
 
 MainWindow::~MainWindow()
